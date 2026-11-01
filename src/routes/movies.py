@@ -81,4 +81,3 @@ async def get_movie_by_id(
         )
 
     return movie
-
